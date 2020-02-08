@@ -86,7 +86,7 @@ phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "XX街", city = "Taipei", region = "Taipei", postcode = "postcode number", country = "Taiwan", country_code = "ROC"}
+address = {street = "XX街", city = "Taipei", region = "Taipei", postcode = "12345", country = "Taiwan", country_code = "ROC"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
