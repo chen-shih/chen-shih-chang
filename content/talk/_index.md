@@ -1,5 +1,5 @@
 ---
-title: AAAAA12345678Recent & Upcoming Talks
+title: Recent & Upcoming Talks
 
 # View.
 #   1 = List
