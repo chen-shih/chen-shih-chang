@@ -21,9 +21,9 @@ organizations:
 bio: 自傳?
 
 interests:
-- 耍費
-- 耍費
-- 耍費
+- 耍廢
+- 耍廢
+- 耍廢
 
 education:
   courses:
